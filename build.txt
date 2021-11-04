@@ -1,0 +1,3 @@
+displayName = Telegraph potion
+author = Neko the cat'nt
+version = 0.2

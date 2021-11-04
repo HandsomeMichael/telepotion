@@ -1,0 +1,16 @@
+this mod add a telegraph potion
+a potion that allows you to teleport around the map
+
+you can obtain the potion from slaying enemy in hallow biome or by crafting it
+
+credit to jopojelly for heros mod code that i stole
+
+changelog :
+
+v.0.2
+- added icon
+- added sprite
+- tweak some code
+
+v.0.1
+- initial release
